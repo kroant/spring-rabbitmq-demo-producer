@@ -1,4 +1,6 @@
 app:
+  messaging:
+    queue-name: demoQueue
   scheduling:
     produce-messages:
-      fixed-delay: PT3S
+      fixed-delay: PT5S

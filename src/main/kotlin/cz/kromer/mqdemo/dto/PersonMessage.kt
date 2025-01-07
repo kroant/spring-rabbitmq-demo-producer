@@ -1,4 +1,4 @@
-package cz.kromer.mqdemo.producer.dto
+package cz.kromer.mqdemo.dto
 
 import com.fasterxml.jackson.annotation.JsonFormat
 import java.time.LocalDate

@@ -1,7 +1,7 @@
 package cz.kromer.mqdemo.producer.service
 
-import cz.kromer.mqdemo.producer.dto.PersonMessage
-import cz.kromer.mqdemo.producer.dto.ProductMessage
+import cz.kromer.mqdemo.dto.PersonMessage
+import cz.kromer.mqdemo.dto.ProductMessage
 import org.slf4j.LoggerFactory.getLogger
 import org.springframework.amqp.core.Queue
 import org.springframework.amqp.rabbit.core.RabbitTemplate

@@ -1,4 +1,4 @@
-package cz.kromer.mqdemo.producer.dto
+package cz.kromer.mqdemo.dto
 
 data class ProductMessage(
     val productName: String,

@@ -3,8 +3,6 @@ plugins {
     id("io.spring.dependency-management") version "1.1.7"
     kotlin("jvm") version "2.1.0"
     kotlin("plugin.spring") version "2.1.0"
-    kotlin("kapt") version "2.1.0"
-    jacoco
 }
 
 group = "cz.kromer.mqdemo.producer"
