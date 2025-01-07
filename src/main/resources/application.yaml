@@ -1,4 +1,4 @@
 app:
   scheduling:
-    produce-message:
+    produce-messages:
       fixed-delay: PT3S
